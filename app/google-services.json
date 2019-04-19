@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437519336323",
+    "firebase_url": "https://brushalpha-990cf.firebaseio.com",
+    "project_id": "brushalpha-990cf",
+    "storage_bucket": "brushalpha-990cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437519336323:android:56852338ff8fdbdc",
+        "android_client_info": {
+          "package_name": "com.example.brushalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437519336323-2n5ntbm733onk24fj99bic283s4b7aic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brushalpha",
+            "certificate_hash": "6e4a765db692c0a6c19de74e0a6af262990451d6"
+          }
+        },
+        {
+          "client_id": "437519336323-mc6l99qdpo9fo9oec0ege5obnvfapoub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOKsaotBLergNTMm_fVeAUmZS2HtPlyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437519336323-mc6l99qdpo9fo9oec0ege5obnvfapoub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
